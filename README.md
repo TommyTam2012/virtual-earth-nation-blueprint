@@ -44,7 +44,11 @@ Section 4 — Real Estate & Infrastructure (Published: 2025-08-10)
 
 Section 5 — Commerce & Services Ecosystem (Published: 2025-08-10)
 
-Section 6 — Environmental & Resource Impact (Planned)
+### Section 6 — Environmental & Resource Impact
+- **File:** [Virtual_Earth_Nation_Section6_Environmental_Resource_Impact_v1_2.pdf](Virtual_Earth_Nation_Section6_Environmental_Resource_Impact_v1_2.pdf)
+- **SHA-256:** `8ff6170884c2c7467b80a5b05220062e8eea934f45f163d0dbece28172ea9995`
+- **Summary:** Digital-twin monitoring, resource markets (carbon, water, materials, biodiversity), and **WT-E** jobs (cleanups, retrofits, habitat builds). KPIs include **tCO2e (tonnes of CO₂-equivalent) avoided**, water saved, circularity, biodiversity, and equity metrics. Funding via municipal/ESG contracts; on-chain verification and audits.
+
 
 ---
 
