@@ -44,6 +44,17 @@
 - **Summary:** Digital-twin monitoring, resource markets (carbon, water, materials, biodiversity), and WT-E jobs (cleanups, retrofits, habitat builds). KPIs include tCO2e avoided, water saved, circularity, biodiversity, and equity metrics. Funding via municipal/ESG contracts; on-chain verification and audits.  
 - **Note:** Currency naming unified to WT-E → VEX → VC; KPI clarifies tCO2e.
 
+### Section 7 — Mobility & Logistics
+- **File:** Virtual_Earth_Nation_Section7_Mobility_Logistics_v1_0_textfix.pdf
+- **SHA-256:** cb61688974d780cc9ea6608562c091bf0503bcd843e294b87de5e7703776f582
+- **Summary:** Digital-twin design, AI dispatch with human-in-the-loop ops, and WT -> VEX -> VC pay flow. Tracks tCO2e per passenger-km/ton-km, enforces safety, equity, and governance alignment with Sections 2–6.
+
+### Appendix A — Zero-Carbon Mobility Mandate
+- **File:** Virtual_Earth_Nation_Appendix_A_Zero_Carbon_Mobility_Mandate_v1_0_textfix.pdf
+- **SHA-256:** a550b9741fcc9c56cbae72efe53e6cfeb90a63c0cea4b5eda667e4d21f4acfce
+- **Summary:** Enforces zero-emission transport across VEN. Intracity via eVTOL + shared pods; intercity via maglev/Hyperloop (no planes). AI-controlled 4D route approvals, hydrogen and eVTOL safety standards, and WT -> VEX -> VC pay for logistics roles.
+
+
 ---
 
 ## Verification Instructions
