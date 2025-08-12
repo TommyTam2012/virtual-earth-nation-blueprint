@@ -54,6 +54,11 @@
 - **SHA-256:** a550b9741fcc9c56cbae72efe53e6cfeb90a63c0cea4b5eda667e4d21f4acfce
 - **Summary:** Enforces zero-emission transport across VEN. Intracity via eVTOL + shared pods; intercity via maglev/Hyperloop (no planes). AI-controlled 4D route approvals, hydrogen and eVTOL safety standards, and WT -> VEX -> VC pay for logistics roles.
 
+### Section 8 — Identity, Citizenship & Reputation
+- **File:** Virtual_Earth_Nation_Section8_Identity_Citizenship_Reputation_v1_0_textfix.pdf
+- **SHA-256:** 7b143e87806631483368061a71af608922db8e675b87736b9fe72df7bfd2a44d
+- **Summary:** Privacy-first identity with DIDs + verifiable credentials, ZK-KYC, and revocable permissions. Clear statuses (Visitor/Resident/Citizen/Org), proof-of-human-work, portable skills/reputation, and due-process moderation. Interops tightly with Sections 2–7 for payouts, safety, and governance.
+
 
 ---
 
