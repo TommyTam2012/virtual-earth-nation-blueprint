@@ -59,6 +59,17 @@
 - **SHA-256:** 7b143e87806631483368061a71af608922db8e675b87736b9fe72df7bfd2a44d
 - **Summary:** Privacy-first identity with DIDs + verifiable credentials, ZK-KYC, and revocable permissions. Clear statuses (Visitor/Resident/Citizen/Org), proof-of-human-work, portable skills/reputation, and due-process moderation. Interops tightly with Sections 2–7 for payouts, safety, and governance.
 
+### Section 9 — Security, Safety & Resilience
+- **File:** Virtual_Earth_Nation_Section9_Security_Safety_Resilience_v1_0_textfix.pdf
+- **SHA-256:** 5e7e03284b5fcf3a5192d6e38cf405e2445b072683c77801df4a53b3f06a1e06
+- **Summary:** Zero Trust security, privacy-by-design, and resilient ops. Covers threat modeling, Trust & Safety pipelines, disaster recovery/business continuity, emergency coordination, and safety-critical kill switches. Tokenized SOC/response work paid via WT -> VEX -> VC. KPIs include MTTD/MTTR, fraud rates, uptime, privacy metrics.
+
+
+### Appendix B — Adversarial Participation & Resilience Games
+- **File:** Virtual_Earth_Nation_Appendix_B_Adversarial_Participation_Resilience_Games_v1_0_textfix.pdf
+- **SHA-256:** 8fa79537651f45b74af0d5660135d7f188469f26d6cfe81a3ed1c6528bda9bee
+- **Summary:** Public-facing Open Security Research & Resilience Games + internal ROE. Licensed guilds (Red Team, Fraud Stress, Chaos Eng, Social Resilience) test scoped arenas. Hard guardrails (no user harm/PII), staking/slashing, coordinated disclosure, payouts via WT -> VEX -> VC, and KPIs tied to real resilience gains.
+
 
 ---
 
