@@ -91,6 +91,14 @@ Section 11 PDF – textfix format, SHA verified.
 Section 12 PDF – textfix format, SHA verified.
 
 Conclusion PDF – textfix format, SHA verified.
+
+git add Virtual_Earth_Nation(WhitePaper).pdf
+git commit -m "docs(whitepaper): add merged VEN White Paper v1.0 with SHA-256 verification"
+git push
+
+bda2362661b891d34d15c5e835ddf3ca636b8a425d23c9595d981ff6cfbd4301
+
+
 ---
 
 ## Verification Instructions
